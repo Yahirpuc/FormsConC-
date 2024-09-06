@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\bin\Debug\net8.0-windows\AreasYPerimetros.exe
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\bin\Debug\net8.0-windows\AreasYPerimetros.deps.json
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\bin\Debug\net8.0-windows\AreasYPerimetros.runtimeconfig.json
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\bin\Debug\net8.0-windows\AreasYPerimetros.dll
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\bin\Debug\net8.0-windows\AreasYPerimetros.pdb
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.Form1.resources
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.AssemblyInfo.cs
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.dll
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\refint\AreasYPerimetros.dll
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.pdb
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.genruntimeconfig.cache
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\ref\AreasYPerimetros.dll
+C:\Users\pc\source\repos\AreasYPerimetros\AreasYPerimetros\obj\Debug\net8.0-windows\AreasYPerimetros.Properties.Resources.resources
